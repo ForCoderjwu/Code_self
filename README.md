@@ -13,4 +13,4 @@ Using all the shape and curve line, no loops but has scale and transform.
 ### Other comments
 
 I don't have a sketch book or pencile around me, so I using my digital sketch app to create this portrait at digital pencile.  
-![My_portrait](https://github.com/ForCoderjwu/Code_self/blob/main/sketch_paper.jpg)
+![My_portrait](https://github.com/ForCoderjwu/Code_self/sketch_paper.jpg)
