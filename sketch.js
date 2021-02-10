@@ -34,7 +34,6 @@ function other() {
   var y = 472;
   var x2 = 323;
   var y2 = 484;
-
   line(x, y, x2, y2);
   line(width-x+25, y, width-x2+25, y2);
   strokeWeight(0);
@@ -67,15 +66,19 @@ function head() {
 
 function face(){
   bezier(430,298, 441,308, 450,333, 430,326);
+  bezier(427,314, 417,315, 422,328, 430,326);
+  //nose
 
   fill(0);
   strokeWeight(4);
   line(372,246, 415,244);
   line(445,239, 476,232);
+  //eyebrow
 
   fill(219,112,147);
   strokeWeight(1);
   bezier(385,365, 409,400, 425,366, 446,359);
+  //mouth
 
   fill(255,255,255);
   strokeWeight(1);
@@ -84,6 +87,6 @@ function face(){
   strokeWeight(7);
   point(401,276);
   point(460,266);
-
+  //eye
   
 }
