@@ -1,3 +1,14 @@
+/*************************************************************************
+    Code Self-Portrait
+          by Jiaquan Wu
+
+    Overview - This program use the line and simple shape to draw the 
+    sketch portrait by hand.
+ 
+    ---------------------------------------------------------------------
+    Notes: This hand portrait is draw by digital pencil, becuase I don't 
+    have a real pencil around me. But it is still my drawing.
+**************************************************************************/
 
 // Setup code goes here
 function setup() {
